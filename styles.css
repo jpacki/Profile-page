@@ -6,7 +6,7 @@
 body {
   margin: 0;
   margin-left: 20px;
-  padding: 0 0 0 15;
+  padding: 0px 0px 0px 15px;
   font-family: 'Roboto', sans-serif;
   color: #222;
   background: #f7f5f0;
@@ -37,7 +37,7 @@ a:hover {
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
-  padding: 0;
+  padding: 0px;
 }
 
 .nav .name {
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Background.jpg') no-repeat top center ;
+  background: url('images/Background.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
