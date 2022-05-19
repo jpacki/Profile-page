@@ -43,6 +43,7 @@ a:hover {
 hr {
   border-top: 3px solid black;
   width: 550px;
+  margin-left: 0px;
 }
 
 .nav .name {
@@ -79,7 +80,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.8);
 }
 .tag {
   background-color: #efefef;
@@ -87,7 +88,7 @@ header .profile-image:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 10px auto;
+  margin: 50px auto;
 } 
 .location {
   background-color: #222;
