@@ -40,6 +40,11 @@ a:hover {
   padding: 0px;
 }
 
+hr {
+  border-top: 3px solid black;
+  width: 550px;
+}
+
 .nav .name {
     display: block;
     margin-right: auto;
